@@ -5,9 +5,5 @@ d:\documents\github\opencv\build\include\opencv2\core\utility.hpp : warning C481
 d:\documents\github\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
 d:\documents\github\opencv\build\include\opencv2\imgproc.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
 d:\documents\github\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
-d:\documents\github\camera\camera\webcam.cpp(12): warning C4005: 'MAX': 巨集重複定義
-  d:\documents\github\opencv\build\include\opencv2\core\cvdef.h(414): note: 請參閱 'MAX' 之前的定義
-d:\documents\github\camera\camera\webcam.cpp(13): warning C4005: 'MIN': 巨集重複定義
-  d:\documents\github\opencv\build\include\opencv2\core\cvdef.h(410): note: 請參閱 'MIN' 之前的定義
   Camera.vcxproj -> D:\Documents\GitHub\Camera\x64\Debug\Camera.exe
   Camera.vcxproj -> D:\Documents\GitHub\Camera\x64\Debug\Camera.pdb (Partial PDB)
